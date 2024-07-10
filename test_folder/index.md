@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Test project"
-permalink: /tysonfromearth.github.io/test-project
+permalink: /test-project
 ---
 
 ### hello world

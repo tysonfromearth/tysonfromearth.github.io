@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Continuous Integration"
+date: 2024-07-15 11:30:00 -0000
+categories: project-management
+---
+
 # Continuous Integration
 ### by Tyson Bryant
 ### Spring Term 2024 at Oregon State Univesity

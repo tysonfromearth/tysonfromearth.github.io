@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/tysonfromearth/tysonfromea
 
 Can you link to [another page](https://tysonfromearth.github.io/anotherpage.md)?
 
-Can you link to a [page in a folder?](https://tysonfromearth.github.io/test_folder/index.md)
+Can you link to a [page in a folder](https://tysonfromearth.github.io/test-project)?
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

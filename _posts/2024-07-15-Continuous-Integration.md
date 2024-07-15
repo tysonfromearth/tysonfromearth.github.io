@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Continuous Integration"
+title: "Continuous-Integration"
 date: 2024-07-15 11:30:00 -0000
 categories: project-management
 ---

@@ -1,8 +1,9 @@
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 
 # Site settings
 title: "Tyson's GitHub Portfolio"
-name: Tyson Bryant
-email: bryantty@oregonstate.edu
+author:
+  name: Tyson Bryant
+  email: bryantty@oregonstate.edu
 description: Peruse a collection of my school projects.

@@ -1,3 +1,9 @@
+# Build settings
 theme: minima
+
+# Site settings
 title: "Tyson's GitHub Portfolio"
+author:
+  name: Tyson Bryant
+  email: bryantty@oregonstate.edu
 description: Peruse a collection of my school projects.

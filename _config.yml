@@ -1,5 +1,5 @@
 # Build settings
-theme: minima
+remote_theme: minima
 
 # Site settings
 title: "Tyson's GitHub Portfolio"

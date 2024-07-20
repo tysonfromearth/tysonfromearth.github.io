@@ -7,3 +7,5 @@ author:
   name: Tyson Bryant
   email: bryantty@oregonstate.edu
 description: Peruse a collection of my school projects.
+minima:
+  skin: auto

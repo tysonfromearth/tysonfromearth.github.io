@@ -9,3 +9,6 @@ author:
 description: Peruse a collection of my school projects.
 minima:
   skin: auto
+  social_links:
+    - { platform: github, user_url: "https://github.com/tysonfromearth" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/tysonfromearth/" }

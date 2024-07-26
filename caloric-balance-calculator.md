@@ -5,7 +5,7 @@ permalink: /cbc
 ---
 Created by Tyson Bryant and Hugh McBarron
 
-Repository URL: https://github.com/tysonfromearth/Caloric-Balance-Calculator
+Repository URL: [github.com/tysonfromearth/Caloric-Balance-Calculator](https://github.com/tysonfromearth/Caloric-Balance-Calculator)
 
 Caloric Balance Calculator is a simple progam that demonstrates two important concepts in software engineering: microservices architecture and inclusivity heuristics.
 

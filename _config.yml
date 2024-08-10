@@ -2,7 +2,7 @@
 remote_theme: jekyll/minima
 
 # Site settings
-title: "Tyson's GitHub Portfolio"
+title: "Portfolio"
 author:
   name: Tyson Bryant
   email: bryantty@oregonstate.edu
@@ -13,5 +13,4 @@ minima:
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/tysonfromearth/" }
   skin: auto
 header_pages:
-  - index.md
   - about.md

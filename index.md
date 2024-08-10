@@ -6,4 +6,6 @@ title: Projects
 
 ### [Caloric Balance Calculator](https://tysonfromearth.github.io/cbc)
 
+### [Continuous Integration](https://tysonfromearth.github.io/continuous-integration)
+
 # Posts
